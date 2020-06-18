@@ -1,5 +1,9 @@
 # DSCA_intropython_dev
 
+### 18/06/2020
+1) Updated readme to standardised
+2) Column name error in merge section of notebook fixed
+
 ### 29/05/2020 - version 1.1 is pushed to the public repo
 1) all folders are pushed except "Additional Notebook Reading" which requires further work. 
 
