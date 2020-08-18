@@ -44,7 +44,7 @@ At the end of the course, participants will be able to:-
 **Course Type** 
 
 * E learning - Available 
-* Self learning - Not Available
+* Self learning - Available Soon
 * Face to face - Available
 
 **Skill Level**
